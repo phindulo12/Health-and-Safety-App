@@ -1,0 +1,17 @@
+[
+    {
+        "from": "phindulo",
+        "to": "buthende",
+        "incident": {
+            "incident_type": "bombs",
+            "description": "the ground has fallen"
+        },
+        "message": "there was a problem at the ground"
+    },
+    {
+        "supervisor": "admin",
+        "incident_number": 1,
+        "resolution": "ground cleared",
+        "action": "resolved"
+    }
+]

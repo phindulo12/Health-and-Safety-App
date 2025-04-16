@@ -1,0 +1,20 @@
+[
+    {
+        "user": "Phindulo",
+        "incident_type": "bombs",
+        "description": "the floor is bombed",
+        "status": "resolved",
+        "resolution": "ground cleared",
+        "resolved_by": "admin"
+    },
+    {
+        "user": "phindulo",
+        "incident_type": "bombs",
+        "description": "the ground has fallen"
+    },
+    {
+        "user": "Phindulo",
+        "incident_type": "Bombs",
+        "description": "the ground has fallen"
+    }
+]
